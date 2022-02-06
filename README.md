@@ -1,3 +1,4 @@
 - 👋 Hey, I’m Jeremy / 19 years
 - 👀 I’m interested in Coding / Servers / PCs
 - 🌱 I’m currently learning GO / Rust / Ruby
+- My Main Languages C++ / C# / Python / Java
