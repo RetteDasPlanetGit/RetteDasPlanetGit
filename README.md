@@ -1,4 +1,7 @@
 <div align="center">
+<b>RetteDasPlaneGit</b>
+</div>
+<div align="center">
 - 👋 Hey, I’m Jeremy / 19 years
 </div>
 <div align="center">
