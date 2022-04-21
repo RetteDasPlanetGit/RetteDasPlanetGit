@@ -1,6 +1,7 @@
 <div align="center">
 <b>RetteDasPlaneGit</b>
 </div>
+
 <div align="center">
 - 👋 Hey, I’m Jeremy / 20 years
 </div>
@@ -10,5 +11,5 @@
 </div>
 
 <div align="center">
-- 👨‍💻 Coding Languages Java / HTML / CSS / JS
+- 👨‍💻 Coding Languages Java / Python / HTML / CSS / JS
 </div>
