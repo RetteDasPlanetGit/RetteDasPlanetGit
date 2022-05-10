@@ -13,4 +13,3 @@
 <div align="center">
 - 👨‍💻 Coding Languages Java / Python / HTML / CSS / JS
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RetteDasPlanetGit)](https://github.com/anuraghazra/github-readme-stats)
