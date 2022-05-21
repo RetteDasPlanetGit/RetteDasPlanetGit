@@ -11,5 +11,5 @@
 </div>
 
 <div align="center">
-- 👨‍💻 Coding Languages Java / Python / HTML / CSS / JS
+- 👨‍💻 Coding Languages: C / C++ / Rust / Java
 </div>
