@@ -11,5 +11,6 @@
 </div>
 
 <div align="center">
-- 👨‍💻 Coding Languages: C / C++ / Rust / Java
+- 👨‍💻 Coding Languages: Java / Python / C++
 </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RetteDasPlanetGit&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
