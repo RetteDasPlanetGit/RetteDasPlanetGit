@@ -10,7 +10,10 @@
 - 👀 I’m interested in Coding / Servers / PCs
 </div>
 
+
 <div align="center">
 - 👨‍💻 Coding Languages: Java / Python / C++
 </div>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RetteDasPlanetGit&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</div>
