@@ -16,5 +16,5 @@
 </div>
 <br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RetteDasPlanetGit&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/74Se05HB0JvELeWgwxffr8?si=234b547f06134d56)
 </div>
