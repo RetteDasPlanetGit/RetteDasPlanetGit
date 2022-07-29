@@ -15,6 +15,4 @@
 - 👨‍💻 Coding Languages: Java / Python / C++
 </div>
 <br>
-<div align="center">
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/6zAiRKvAMlXHxEtyO4yxIO?si=512136b1d32f4bce)
-</div>
