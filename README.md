@@ -8,5 +8,5 @@
 
 
 <div align="center">
-- 👨‍💻 Coding Languages: Java / C++ / Rust
+- 👨‍💻 Coding Languages: Java / C++ / C# / Rust
 </div>
