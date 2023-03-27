@@ -11,8 +11,6 @@
   
 - 🌱 I’m currently learning C and Go
   
-- 👯 I’m looking to collaborate on Proyectos
-  
 - 💬 Ask me about Rust, C++, C# and Web Stuff
   
 
