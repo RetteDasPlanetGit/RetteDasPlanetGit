@@ -6,8 +6,6 @@
 </div>
 
 <h2> About Me </h2>
-
-<img width="55%" align="right" alt="Github" style="margin-bottom: 2px;" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
 - 🌱 I’m currently learning C++ and Rust
   
