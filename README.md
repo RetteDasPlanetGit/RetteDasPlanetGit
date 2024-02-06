@@ -25,7 +25,9 @@
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg">
 </a>
 
-
+<br>
+<hr>
+<br>
 
 | ![Jeremy's github stats](https://github-readme-stats.vercel.app/api?username=RetteDasPlanetGit&show_icons=true&theme=tokyonight) | ![Jeremy's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RetteDasPlanetGit&theme=tokyonight) |
 | --- | --- |
