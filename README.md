@@ -13,6 +13,12 @@
   
 
 <h2> Skills </h2>
+- PHP
+- Symfony
+- MySQL
+- Python
+- Rust
+- C++
 
 <br>
 <hr>
