@@ -13,6 +13,7 @@
   
 
 <h2> Skills </h2>
+
 - PHP
 
 - Symfony
@@ -25,9 +26,7 @@
   
 - C++
 
-<br>
 <hr>
-<br>
 
 | ![Jeremy's github stats](https://github-readme-stats.vercel.app/api?username=RetteDasPlanetGit&show_icons=true&theme=tokyonight) | ![Jeremy's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RetteDasPlanetGit&theme=tokyonight) |
 | --- | --- |
