@@ -7,9 +7,7 @@
 
 <h2> About Me </h2>
   
-- 🌱 I’m currently learning C++ and Rust
-  
-- 💬 Ask me about Java, PHP, Python
+- 💬 Ask me about Rust, C++, Go, Java, PHP, Python
   
 
 <h2> Skills </h2>
